@@ -101,7 +101,12 @@ const TextArea = styled.textarea`
 
   @media only screen and (max-width: 580px) {
     padding: 5px;
-    margin: 20px -45px;
+    margin-top: -20px;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    height: 38%;
   }
 `;
 
