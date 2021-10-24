@@ -3,15 +3,22 @@
 # Links
 
 **The Demo: [Responsive React Website](https://relaxed-turing-8773c2.netlify.app/)**
+#
+
+**I learned this Landing page from: [Lama Dev](https://www.youtube.com/watch?v=9_s_Essow6s&t=325s) & added these features:**
+- Handled some responsive issues
+- added a register modal
+- previnted: scroll screen when showing the modal
 
 
 <hr>
 
 
+![agency](https://user-images.githubusercontent.com/66003360/138589805-b1e221b9-560c-444a-9640-8bf4c76f0664.jpeg)
 
 
 
-
+<hr>
 
 # Getting Started with Create React App
 
@@ -81,5 +88,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
 ### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
