@@ -51,7 +51,7 @@ const Footer = () => {
     <Container>
       <Wrapper>
         <List>
-          <ListItem>Guid</ListItem>
+          <ListItem>Guide</ListItem>
           <ListItem>Support</ListItem>
           <ListItem>API</ListItem>
           <ListItem>Community</ListItem>
